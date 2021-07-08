@@ -58,6 +58,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [Raspbian](https://raspbian.org/) - Raspbian is a free operating system based on Debian optimized for the Raspberry Pi hardware.
  - [RIOT](http://www.riot-os.org/) - The friendly Operating System for the Internet of Things.
  - [Tiny OS](http://tinyos.stanford.edu/tinyos-wiki/index.php/TinyOS_Overview) - TinyOS is an open source, BSD-licensed operating system designed for low-power wireless devices, such as those used in sensor networks, ubiquitous computing, personal area networks, smart buildings, and smart meters.
+ - [UBOS](https://ubos.net/) - UBOS is a Linux distro that focuses on making systems administration of home servers and Indie IoT devices running web applications much simpler. A derivative of Arch Linux, it runs on PCs, Raspberry Pis, ESPRESSObin, and cloud.
  - [Windows 10 IoT Core](https://dev.windows.com/en-us/iot) - Windows 10 IoT is a family of Windows 10 editions targeted towards a wide range of intelligent devices, from small industrial gateways to larger more complex devices like point of sales terminals and ATMs.
   - [Zephyr Project](https://www.zephyrproject.org/) - The Zephyr™ Project is a scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices, and built with security in mind.
 
@@ -92,6 +93,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [Thingsboard IoT Gateway](https://github.com/thingsboard/thingsboard-gateway) - Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with Thingsboard IoT Platform using OPC-UA and MQTT protocols.
  - [Pimatic](https://pimatic.org/) - Pimatic is a home automation framework that runs on node.js. It provides a common extensible platform for home control and automation tasks.
  - [IOTA](https://iota.org/) - Open-source distributed ledger protocol for IoT. Uses a directed acyclic graph (DAG) instead of a blockchain.
+ - [MyController](https://github.com/mycontroller-org/mycontroller) - The Open Source Controller. MyController.org is an IoT automation controller for home, office or any place.
 
 #### Middlewares
 
@@ -107,6 +109,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [Thingsboard](https://thingsboard.io) - An open-source IoT platform. Device management, data collection, processing and visualization for your IoT solution.
  - [VerneMQ](https://github.com/erlio/vernemq) - VerneMQ is a high-performance, distributed MQTT broker that connects IoT, M2M, Mobile, and web applications. It scales horizontally and vertically on commodity hardware to support a high number of concurrent publishers and consumers while maintaining low latency and fault tolerance.
  - [Kuzzle](https://github.com/kuzzleio/kuzzle) - An open-source backend with advanced features like real-time pub/sub or geofencing and a multiprotocol interface that supports MQTT, LoRaWAN and more. ([Website](https://kuzzle.io/solutions/technologies/iot-backend/))
+ - [DevicePilot](https://www.devicepilot.com) - Operational analytics for connected devices (includes free-forever tier).
 
 #### Libraries and Tools
 
@@ -116,14 +119,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [Pi4J](http://pi4j.com/) - Pi4j is intended to provide a friendly object-oriented I/O API and implementation libraries for Java Programmers to access the full I/O capabilities of the Raspberry Pi platform.
  - [WiringPi](http://wiringpi.com/) - WiringPi is a GPIO access library written in C for the BCM2835 used in the Raspberry Pi.
  - [Node-RED](http://nodered.org/) - A visual tool for wiring the Internet of Things.
+ - [ops](https://ops.city/) - A free open source tool to build, run, and deploy linux applications as unikernels.
  - [SmartObject](https://github.com/PeterEB/smartobject) - A Smart Object Class that helps you with creating IPSO Smart Objects in your JavaScript applications. See also: IPSO Alliance [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
 
 #### Miscellaneous
 
  - [Amazon Dash](https://fresh.amazon.com/dash/) - Amazon Dash Button is a Wi-Fi connected device that reorders your favorite item with the press of a button.
  - [Freeboard](http://freeboard.io/) - A real-time interactive dashboard and visualization creator implementing an intuitive drag & drop interface.
- - [Nebula](http://nebula.readthedocs.io) -  A docker orchestrator designed to manage IoT devices
-
+ - [Nebula](http://nebula.readthedocs.io) -  A docker orchestrator designed to manage IoT devices.
+ - [Gladys](https://gladysassistant.com) - Gladys is an open-source program that runs on the Raspberry Pi and integrates into the entire home network system.
 ## Protocols and Networks
 
 ### Physical layer
